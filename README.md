@@ -1,1 +1,1 @@
-# Laravel-Nuxt
+laravel-nuxt-ssr-be
