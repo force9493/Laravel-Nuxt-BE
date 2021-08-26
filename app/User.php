@@ -105,4 +105,8 @@ class User extends Authenticatable implements JWTSubject //, MustVerifyEmail
     {
         return [];
     }
+
+    public static function getText() {
+        return 'This is a text';
+    }
 }
