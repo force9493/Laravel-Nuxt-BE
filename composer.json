@@ -3,7 +3,7 @@
     "description": "A Laravel-Nuxt starter project template.",
     "keywords": ["laravel", "nuxt", "vue", "spa"],
     "license": "MIT",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
